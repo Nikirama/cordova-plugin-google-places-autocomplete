@@ -9,7 +9,7 @@
 ## Install
 
   ```
-  $ cordova plugin add cordova-plugin-googleplaces-autocomplete
+  cordova plugin add cordova-plugin-googleplaces-autocomplete
   ```
 
 #### Then set your Google Maps API keys into your `config.xml` (Android / iOS).
