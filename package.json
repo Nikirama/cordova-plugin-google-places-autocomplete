@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amandylabs/cordova-plugin-get-app-version.git"
+    "url": "git+https://github.com/Nikirama/cordova-plugin-google-places-autocomplete.git"
   },
-  "homepage": "https://github.com/nikirama/cordova-plugin-get-app-version#readme"
+  "homepage": "https://github.com/Nikirama/cordova-plugin-google-places-autocomplete#readme"
 }
