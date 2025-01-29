@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-googleplaces-autocomplete",
+  "version": "1.0.0",
+  "description": "Cordova plugin for Google Places non-UI autocomplete",
+  "main": "plugin.xml",
+  "author": "Nikirama <it.nikirama@gmail.com>",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "plugin",
+    "google"
+  ],
+  "license": "MIT",
+  "cordova": {
+    "id": "cordova-plugin-googleplaces-autocomplete",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandylabs/cordova-plugin-get-app-version.git"
+  },
+  "homepage": "https://github.com/nikirama/cordova-plugin-get-app-version#readme"
+}
